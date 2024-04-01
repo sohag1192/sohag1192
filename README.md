@@ -8,7 +8,7 @@
 <h1 align="center">
   <img src="assets/hello.gif" alt="hello-gif" height="150px">
   <br>
-  <img src="assets/wave.gif" alt="waving hand" width="30px">I'm <a href="https://www.linkedin.com/in/dhimant1990/">Dhimant Desai</a>
+  <img src="assets/wave.gif" alt="waving hand" width="30px">I'm <a href="https://www.linkedin.com/in/md-sohag-rana-24b2b713a/">Md Sohag Rana</a>
 </h1>
 
 <img align="right" alt="GIF" src="assets/coding.gif" width="300px" height="250px"/>
