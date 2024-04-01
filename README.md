@@ -1,9 +1,4 @@
-<!---
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/dhimant1990/count.svg" />
-</p>
---->
+
 
 <h1 align="center">
   <img src="assets/hello.gif" alt="hello-gif" height="150px">
@@ -17,7 +12,7 @@
 
 - 🔭 I’m currently working as a Flutter/Dart Developer
 - 💬 Ask me about anything related to Flutter development  
-- 📫 How to reach me: mail me at [dhimant1990@gmail.com](mailto:dhimant1990@gmail.com)
+- 📫 How to reach me: mail me at [sohag1992@gmail.com](mailto:sohag1192@gmail.com)
 - ⚡ Fun fact: I love to watch movies and ride motorbike/cars
 
 
@@ -32,8 +27,8 @@
 [<img height="25" src="https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail] 
 [<img height="25" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][LinkedIn]
 
-[gmail]: mailto:dhimant1990@gmail.com/
-[Linkedin]: https://www.linkedin.com/in/dhimant1990/
+[gmail]: mailto:sohag1192@gmail.com/
+[Linkedin]: https://www.linkedin.com/in/md-sohag-rana-24b2b713a/
 
 ## Technical skills
 
