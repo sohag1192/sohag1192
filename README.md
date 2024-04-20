@@ -16,9 +16,7 @@
 - ⚡ Fun fact: I love to watch movies and ride motorbike/cars
 
 
-![Sohag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohag1192&show_icons=true&theme=transparent)
-
-[![sohag1192’s github stats](https://github-readme-stats.vercel.app/api?username=sohag1192&show_icons=true&line_height=21&show_icons=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Sohag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohag1192&show_icons=true&theme=dark)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhimant1990&" alt="dhimant1990" />
 
