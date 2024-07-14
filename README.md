@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working as a Developer
 - 💬 Ask me about anything related to  development  
-- 📫 How to reach me: mail me at [sohag1992@gmail.com](mailto:sohag1192@gmail.com)
+- 📫 How to reach me: mail me at [sohag1192@gmail.com](mailto:sohag1192@gmail.com)
 - ⚡ Fun fact: I love to watch movies and ride motorbike/cars
 
 
