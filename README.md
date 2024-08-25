@@ -16,6 +16,9 @@
   <a href="https://x.com/Sohag_1192">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+
+  https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FSohag_1192
+
 </div>
 </center>
 
