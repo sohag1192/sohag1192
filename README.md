@@ -1,6 +1,6 @@
 ![](https://hit.yhype.me/github/profile?user_id=67639702)
 
--------------
+------------
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 
-  https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FSohag_1192
 
 </div>
 </center>
