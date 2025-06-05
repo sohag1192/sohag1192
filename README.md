@@ -1,52 +1,32 @@
 ![](https://hit.yhype.me/github/profile?user_id=67639702)
 
 ------------
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
-<center>
-<div id="badges">
-  <a href="https://www.facebook.com/MdSohagRana.01/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/MdSohagRana.01/">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://x.com/Sohag_1192">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+<!-- Copyrights 2020-25 @sohag1192  -->
+
+<p align="center"><a href="/"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Hello" width="160px" /></a></p>
+<h4 align="center">ᴀʟᴡᴀʏꜱ ᴘʟᴀʏꜱ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇꜱ🐍 <br> ɪ ʟɪᴋᴇ ᴛᴏ ᴡᴏʀᴋ ᴘʀɪᴠᴀᴛᴇʟʏ 🔏 <br> 🤹‍♂️ ꜰᴏʀ ᴜᴘᴅᴀᴛᴇ ᴊᴏɪɴ ᴛɢ :- <br></h4>
+
+<p align='center'> 
+<a href="https://codepen.io/sohag1192"><img height="25" src="https://img.shields.io/badge/codepen-green.svg?&style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://x.com/Sohag_1192"><img height="25" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://rootmaster.xyz/"><img height="25" src="https://img.shields.io/badge/Website-%23354230.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/mdsohagrana.01/"><img height="25" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://t.me/Flussonics"><img height="25" src="https://img.shields.io/badge/join telegram-%23ffffff.svg?&style=for-the-badge&logo=telegram&logoColor=blue"></a>&nbsp;&nbsp; 
+</p>
 
 
-</div>
-</center>
+<p align="center"> <a href="https://github.com/sohag1192/"><img height="24" src="https://git-visitors.vercel.app/api/sohag1192" alt="sohag1192" /></a> <img src="https://komarev.com/ghpvc/?username=sohag1192&style=flat-square&color=blue" alt=""/> </p><br>
 
 
-<img src="https://komarev.com/ghpvc/?username=sohag1192&style=flat-square&color=blue" alt=""/>
-<!--<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+## ⚔️ ᴀʙᴏᴜᴛ ᴍᴇ : <br>
 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
--->
-
----
-
-### :woman_technologist: About Me :
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: sohag1192@gmail.com
+✔️ 👋 ʜɪ, ɪ’ᴍ @sohag1192 .<br>
+✔️ 👀 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ᴄᴏᴅɪɴɢ & ʟɪᴛᴛʟᴇ ʙɪᴛ ɪɴ ʜᴀᴄᴋɪɴɢ ꜱᴛᴜꜰꜰꜱ.<br>
+✔️ ☎ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ :- No Found <br>
+✔️ 🤹‍♂️ ꜰᴏʀ ᴜᴘᴅᴀᴛᴇ ᴊᴏɪɴ ᴛɢ :- [Join Now](https://t.me/Flussonics) <br>
+✔️ 📧 ᴇ-ᴍᴀɪʟ ᴀᴛ :- [sohag1192@gmail.com](mailto:sohag1192@gmail.com) <br>
+<h1>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -66,12 +46,27 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+## ⚡️ ꜱᴛᴀᴛꜱ : 
 
----
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=sohag1192&cc=000&tc=fff&ic=fff&bc=000" alt="sohag1192's GitHub stats">
+</div>
 
+## 🎓 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohag1192&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/sohag1192">
+    <img src="https://streak-stats.demolab.com?user=sohag1192&theme=gruvbox_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000">
+  </a>
+</p>
 
+<a href="https://github.com/sohag1192">
+<img alt="Mitthu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sohag1192&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+</a>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohag1192&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
+</div>
 
 
 
