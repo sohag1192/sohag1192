@@ -48,16 +48,12 @@
   <img src="https://github-stats-alpha.vercel.app/api?username=sohag1192&cc=000&tc=fff&ic=fff&bc=000" alt="sohag1192's GitHub stats">
 </div>
 
-## 🎓 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ :
+## My Stats
 
-<p align="center">
-  <a href="https://github.com/sohag1192">
-    <img src="https://streak-stats.demolab.com?user=sohag1192&theme=gruvbox_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000">
-  </a>
-</p>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohag1192&show_icons=true)
 
 <a href="https://github.com/sohag1192">
-<img alt="Mitthu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sohag1192&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+<img alt="Sohag's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sohag1192&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
 </a>
 
 <div align="center">
