@@ -58,19 +58,23 @@
 
 ## ⚡️ Stats
 
-<div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=sohag1192&cc=000&tc=fff&ic=fff&bc=000" alt="sohag1192's GitHub stats">
-</div>
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=sohag1192&cc=000&tc=fff&ic=fff&bc=000" alt="sohag1192's GitHub stats" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sohag1192&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohag1192&show_icons=true" alt="GitHub stats" />
+</p>
 
-<a href="https://github.com/sohag1192">
-<img alt="Sohag's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sohag1192&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
-</a>
+<p align="center">
+  <a href="https://github.com/sohag1192">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohag1192&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Sohag's Activity Graph" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohag1192&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohag1192&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</p>
 
 ## 🚀 Featured Projects
 - [Flussonic-Media-Server](https://github.com/sohag1192/Flussonic-Media-Server)
