@@ -84,9 +84,8 @@
 
 - [Flussonic-Media-Server](https://github.com/sohag1192/Flussonic-Media-Server) — High-load video streaming setup guides and activation steps.
 - [Live-Tv-Server](https://github.com/sohag1192/Live-Tv-Server) — Build and host your own live TV server workflow.
-- [Free-TV (IPTV)](https://github.com/sohag1192/Free-TV) — Curated free IPTV M3U playlists.
 - [emby-to-telegram](https://github.com/sohag1192/emby-to-telegram) — Emby new media notifier with Telegram alerts and systemd support.
-- [Falcon Cast App](https://github.com/sohag1192/falcon-cast) — Streaming app assets, bilingual campaigns, deployment docs.
+
 
 > More projects: https://github.com/sohag1192
 
