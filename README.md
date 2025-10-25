@@ -72,13 +72,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohag1192&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
 </div>
 
----
+## 🚀 Featured Projects
+- [Flussonic-Media-Server](https://github.com/sohag1192/Flussonic-Media-Server)
+- [emby-to-telegram](https://github.com/sohag1192/emby-to-telegram)
 
-## 🏆 GitHub trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sohag1192&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
----
+- 
 
 ## 🚀 Featured projects
 
