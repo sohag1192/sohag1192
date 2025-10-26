@@ -76,12 +76,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohag1192&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
 
-## 🚀 Featured Projects
-- [Flussonic-Media-Server](https://github.com/sohag1192/Flussonic-Media-Server)
-- [emby-to-telegram](https://github.com/sohag1192/emby-to-telegram)
-
-- 
-
 ## 🚀 Featured projects
 
 - [Flussonic-Media-Server](https://github.com/sohag1192/Flussonic-Media-Server) — High-load video streaming setup guides and activation steps.
