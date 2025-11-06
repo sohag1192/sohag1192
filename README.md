@@ -1,111 +1,133 @@
+# 💫 Hello, I'm Md Sohag Rana! 
 
-<!-- Copyrights 2020-25 @sohag1192 -->
-
+<div align="center">
+  
+### 🚀 Full-Stack Developer | 📺 Streaming Specialist | 🔧 Automation Expert
+  
 <p align="center">
-  <a href="/"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Hello" width="160px" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Building+scalable+solutions;Streaming+technology+enthusiast;Open+source+contributor;Problem+solver+at+heart" alt="Typing SVG" />
 </p>
 
-<h4 align="center">
-  ᴀʟᴡᴀʏꜱ ᴘʟᴀʏꜱ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇꜱ 🐍 <br>
-  ɪ ʟɪᴋᴇ ᴛᴏ ᴡᴏʀᴋ ᴘʀɪᴠᴀᴛᴇʟʏ 🔏 <br>
-  🤹‍♂️ ꜰᴏʀ ᴜᴘᴅᴀᴛᴇ ᴊᴏɪɴ ᴛɢ :- <br>
-</h4>
-
-<p align='center'>
-  <a href="https://codepen.io/sohag1192"><img height="25" src="https://img.shields.io/badge/codepen-green.svg?&style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://x.com/Sohag_1192"><img height="25" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://rootmaster.xyz/"><img height="25" src="https://img.shields.io/badge/Website-%23354230.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/mdsohagrana.01/"><img height="25" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://t.me/Flussonics"><img height="25" src="https://img.shields.io/badge/join telegram-%23ffffff.svg?&style=for-the-badge&logo=telegram&logoColor=blue"></a>&nbsp;&nbsp;
-</p>
-
-<p align="center">
-  <a href="https://github.com/sohag1192/"><img height="24" src="https://git-visitors.vercel.app/api/sohag1192" alt="sohag1192" /></a>
-  <img src="https://komarev.com/ghpvc/?username=sohag1192&style=flat-square&color=blue" alt=""/>
-</p>
-
----
-
-## ⚔️ About me
-
-- **Intro:** Hi, I’m @sohag1192
-- **Interests:** Coding, streaming platforms, ISP automation, a little bit of hacking curiosities
-- **Updates:** Join Telegram — [Flussonics](https://t.me/Flussonics)
-- **Email:** [sohag1192@gmail.com](mailto:sohag1192@gmail.com)
-- **Website:** [rootmaster.xyz](https://rootmaster.xyz)
-
----
-
-## 🛠️ Tech stack
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 ---
 
-## ⚡️ Stats
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=sohag1192&cc=000&tc=fff&ic=fff&bc=000" alt="sohag1192's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohag1192&show_icons=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/sohag1192">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohag1192&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Sohag's Activity Graph" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohag1192&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</p>
-
-## 🚀 Featured projects
-
-- [Flussonic-Media-Server](https://github.com/sohag1192/Flussonic-Media-Server) — High-load video streaming setup guides and activation steps.
-- [Live-Tv-Server](https://github.com/sohag1192/Live-Tv-Server) — Build and host your own live TV server workflow.
-- [emby-to-telegram](https://github.com/sohag1192/emby-to-telegram) — Emby new media notifier with Telegram alerts and systemd support.
-
-
-> More projects: https://github.com/sohag1192
-
+- 🔭 Currently working on **ISP automation and streaming platforms**
+- 🌱 Learning **advanced cloud architectures and system design**
+- 👯 Looking to collaborate on **open-source streaming solutions**
+- 💬 Ask me about **Java, React, streaming technologies, ISP systems**
+- 📫 How to reach me: **sohag1192@gmail.com**
+- ⚡ Fun fact: **I build systems that handle millions of requests privately**
 
 ---
 
-## 📊 Star history & visitors
+## 🛠 Tech Stack
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sohag1192/Flussonic-Media-Server,sohag1192/emby-to-telegram&type=Date)](https://star-history.com/#sohag1192/Flussonic-Media-Server&Date)
+### **Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-![Visitor Count](https://hits.sh/github.com/sohag1192/sohag1192.svg?style=for-the-badge&label=Visitors&color=blue)
+### **Databases & Cloud**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
 
-## 🤝 Connect
+## 📊 GitHub Stats
 
-- Twitter/X: [@Sohag_1192](https://x.com/Sohag_1192)
-- Telegram: [Flussonics](https://t.me/Flussonics)
-- Website: [rootmaster.xyz](https://rootmaster.xyz)
-- Email: [sohag1192@gmail.com](mailto:sohag1192@gmail.com)
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=sohag1192&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sohag1192&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohag1192&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 ---
 
-<p align="center">
-  <b>⭐ If you like my work, consider starring my repositories!</b>
-</p>
+## 🏆 Featured Projects
 
+### 🎥 **Streaming & Media Solutions**
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Flussonic Media Server](https://github.com/sohag1192/Flussonic-Media-Server)** | High-load video streaming setup guides | Flussonic, Streaming |
+| **[Live TV Server](https://github.com/sohag1192/Live-Tv-Server)** | Build and host live TV server workflow | Streaming, Automation |
+| **[Emby to Telegram](https://github.com/sohag1192/emby-to-telegram)** | Media notifier with Telegram alerts | Python, Telegram API |
+
+### 🔧 **Automation & Tools**
+| Project | Description | Status |
+|---------|-------------|--------|
+| **ISP Automation Suite** | Private automation for Internet Service Providers | 🔒 Private |
+| **Streaming Platform Tools** | Custom solutions for media streaming | 🔒 Private |
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-rootmaster.xyz-00cc44?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rootmaster.xyz)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Flussonics)
+[![Email](https://img.shields.io/badge/Email-sohag1192@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohag1192@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Sohag_1192)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Sohag's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sohag1192&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/sohag1192)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const currentFocus = {
+  primary: "ISP Automation & Streaming Platforms",
+  technologies: ["Java", "Spring Boot", "React", "AWS"],
+  learning: ["System Design", "Microservices", "Cloud Architecture"],
+  interests: ["High-load Systems", "Video Streaming", "Open Source"]
+};
+```
+
+---
+
+## 💡 Quick Facts
+
+- 🎯 **Specialized in:** Backend development & streaming technologies
+- 🔐 **Working style:** Prefer private development with selective open-source contributions
+- 📺 **Expertise:** Building scalable streaming platforms and media servers
+- 🌟 **Philosophy:** "Build solutions that handle real-world scale"
+
+---
+
+<div align="center">
+
+### ⭐️ **If you like my work, don't forget to star my repositories!**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=sohag1192&style=flat-square&color=blue)
+
+</div>
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad." - Cory House*
