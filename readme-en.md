@@ -65,9 +65,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohag1192&layout=compact&theme=radical" alt="sohag1192's top languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohag1192&theme=radical" alt="sohag1192's streak stats"/>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/sohag1192">
@@ -96,9 +94,7 @@
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sohag1192&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sohag1192&theme=material)](https://git.io/streak-stats)
 
 ---
 
@@ -121,6 +117,25 @@ If you find my projects useful, consider giving them a star ⭐! It helps others
     <img src="https://img.shields.io/badge/Explore-More_Projects-blue?style=for-the-badge&logo=github" alt="Explore More Projects"/>
   </a>
 </p>
+
+---
+
+---
+
+## 📊 Star history & visitors
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sohag1192/Flussonic-Media-Server,sohag1192/emby-to-telegram&type=Date)](https://star-history.com/#sohag1192/Flussonic-Media-Server&Date)
+
+![Visitor Count](https://hits.sh/github.com/sohag1192/sohag1192.svg?style=for-the-badge&label=Visitors&color=blue)
+
+---
+
+## 🤝 Connect
+
+- Twitter/X: [@Sohag_1192](https://x.com/Sohag_1192)
+- Telegram: [Flussonics](https://t.me/Flussonics)
+- Website: [rootmaster.xyz](https://rootmaster.xyz)
+- Email: [sohag1192@gmail.com](mailto:sohag1192@gmail.com)
 
 ---
 
