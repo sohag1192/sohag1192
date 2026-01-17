@@ -8,10 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Building+ISP+Automation+Systems;Architecting+High-Load+Streaming;Contributing+to+Open+Source;Expert+in+MikroTik+%26+Cisco" alt="Typing SVG" />
 </p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=sohag1192&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="sohag1192 trophies" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohag1192&theme=radical" alt="Profile Details" />
 
+<br/>
 <br/>
 
 <a href="https://rootmaster.xyz"><img src="https://img.shields.io/badge/Website-rootmaster.xyz-00cc44?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
