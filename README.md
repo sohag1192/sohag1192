@@ -24,11 +24,11 @@
 
 ## 👨‍💻 **Executive Summary**
 
-I am a **Full-Stack Developer** and **Network Engineer** specializing in the intersection of software and infrastructure. I build high-performance systems that manage internet traffic and deliver low-latency video streams at scale.
+I am a **Full-Stack Developer** and **Network Engineer** specializing in the intersection of software engineering and heavy-duty network infrastructure. I build high-performance systems that manage internet traffic, automate ISP operations, and deliver low-latency video streams at scale.
 
-* 🔭 **Core Focus:** ISP Automation (Radius/BGP/PPPoE) & Media Ecosystems (Emby/Flussonic).
-* 🛠 **Bridging the Gap:** Integrating MikroTik/Cisco hardware with custom Python/PHP middleware.
-* ⚡ **Scale:** Designing high-concurrency IPTV, VOD, and routing architectures.
+* 🔭 **Core Focus:** ISP Automation (Radius/BGP/PPPoE) & Media Server Ecosystems.
+* 🛠 **Bridging the Gap:** Integrating enterprise hardware (MikroTik/Cisco) with custom middleware.
+* ⚡ **Architecture:** Designing high-concurrency IPTV, VOD streaming, and core routing solutions.
 
 ---
 
@@ -67,21 +67,15 @@ I am a **Full-Stack Developer** and **Network Engineer** specializing in the int
 
 ---
 
-## 🏆 **Featured Projects**
+## 🏆 **Top 5 Featured Projects**
 
-### 🎥 **Streaming & Media Solutions**
-| Project | Role | Stack / Focus |
-|:---|:---|:---|
-| **[IPTV M3U Generator](https://github.com/sohag1192/IPTV-M3U-Generator)** | Author | `PHP` `API` Dynamic playlist generation & stream routing. |
-| **[Emby Home Swiper UI](https://github.com/sohag1192/Emby-Home-Swiper-UI)** | Author | `JS` `CSS` Modern, touch-responsive UI for Emby servers. |
-| **[Emby to Telegram](https://github.com/sohag1192/emby-to-telegram)** | Author | `Python` Real-time media addition notification bot. |
-
-### 🔧 **Network & Automation Tooling**
-| Project | Role | Stack / Focus |
-|:---|:---|:---|
-| **[Web File Browser UI](https://github.com/sohag1192/Web-File-Browser-UI)** | Author | `PHP` `JS` Sleek web interface for managing remote FTP/server files. |
-| **[MikroTik DNS Forwarder](https://github.com/sohag1192/how-to-forward-dns-TCP-UDP-to-mikrotik-dns)** | Author | `RouterOS` Optimized DNS traffic handling and caching. |
-| **[UFW Rule Generator](https://github.com/sohag1192/UFW-Generator)** | Author | `PHP` `JS` Automated tool for generating complex server firewall policies. |
+| Status | Project & Link | Tech Stack | Description |
+|:---:|:---|:---|:---|
+| 🔴 **Private** | **Enterprise ISP Management Suite** | `Python` `PHP` `API` | Comprehensive billing, Radius, and bandwidth management architecture built for large-scale ISP operations. Handles automated PPPoE provisioning and traffic shaping. |
+| 🟢 **Public** | **[IPTV M3U Generator Middleware](https://github.com/sohag1192/IPTV-M3U-Generator)** | `PHP` `HLS` | An advanced backend script for dynamic M3U playlist generation, stream routing, and client management for live TV services. |
+| 🟢 **Public** | **[Emby to Telegram Automator](https://github.com/sohag1192/emby-to-telegram)** | `Python` `Webhooks` | A real-time notification engine that monitors Emby media servers and pushes highly formatted alerts directly to Telegram channels. |
+| 🟢 **Public** | **[Advanced Web File Browser UI](https://github.com/sohag1192/Web-File-Browser-UI)** | `PHP` `JS` `CSS` | A sleek, responsive, and secure web interface designed for managing remote FTP/server file directories from any device. |
+| 🟢 **Public** | **[MikroTik Advanced Traffic Engine](https://github.com/sohag1192/how-to-forward-dns-TCP-UDP-to-mikrotik-dns)** | `RouterOS` | Specialized deployment scripts for optimizing ISP environments, including advanced DNS forwarding, TCP/UDP handling, and complex PCQ queue trees. |
 
 ---
 
