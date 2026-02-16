@@ -5,17 +5,18 @@
 ### 🚀 ISP Automation Architect | 📺 Streaming Solutions Specialist
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Building+ISP+Automation+Systems;Architecting+High-Load+Streaming;Contributing+to+Open+Source;Expert+in+MikroTik+%26+Cisco;Developing+Next-Gen+IPTV+Middleware" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Building+ISP+Automation+Systems;Architecting+High-Load+Streaming;Developing+IPTV+Middleware;Expert+in+MikroTik+%26+Cisco" alt="Typing SVG" />
 </p>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohag1192&theme=radical" alt="Profile Details" />
 
 <br/>
+<br/>
 
-[<img src="https://img.shields.io/badge/Website-rootmaster.xyz-00cc44?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>](https://rootmaster.xyz)
-[<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>](mailto:sohag1192@gmail.com)
-[<img src="https://img.shields.io/badge/Telegram-@sohag1192-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>](https://t.me/sohag1192)
-[<img src="https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>](https://x.com/Sohag_1192)
+<a href="https://rootmaster.xyz"><img src="https://img.shields.io/badge/Website-rootmaster.xyz-00cc44?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+<a href="mailto:sohag1192@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://t.me/sohag1192"><img src="https://img.shields.io/badge/Telegram-@sohag1192-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://x.com/Sohag_1192"><img src="https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 
 </div>
 
@@ -25,9 +26,9 @@
 
 I am a **Full-Stack Developer** and **Network Engineer** specializing in the intersection of software and infrastructure. I build high-performance systems that manage internet traffic and deliver low-latency video streams at scale.
 
-* 🔭 **Core Focus:** ISP Automation (Radius/BGP/PPPoE) & Flussonic Media Ecosystems.
+* 🔭 **Core Focus:** ISP Automation (Radius/BGP/PPPoE) & Media Ecosystems (Emby/Flussonic).
 * 🛠 **Bridging the Gap:** Integrating MikroTik/Cisco hardware with custom Python/PHP middleware.
-* ⚡ **Streaming:** Designing high-concurrency IPTV and VOD architectures.
+* ⚡ **Scale:** Designing high-concurrency IPTV, VOD, and routing architectures.
 
 ---
 
@@ -38,7 +39,7 @@ I am a **Full-Stack Developer** and **Network Engineer** specializing in the int
     <td align="center" width="25%"><b>💻 Backend & Logic</b></td>
     <td align="center" width="25%"><b>🌐 Frontend & UI</b></td>
     <td align="center" width="25%"><b>📡 Network & IPTV</b></td>
-    <td align="center" width="25%"><b>☁️ Infra & Devops</b></td>
+    <td align="center" width="25%"><b>☁️ Infra & Sec</b></td>
   </tr>
   <tr>
     <td align="center">
@@ -49,7 +50,7 @@ I am a **Full-Stack Developer** and **Network Engineer** specializing in the int
     <td align="center">
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/MikroTik-E53935?style=flat-square&logo=mikrotik&logoColor=white" /><br>
@@ -59,7 +60,7 @@ I am a **Full-Stack Developer** and **Network Engineer** specializing in the int
     <td align="center">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/UFW_Firewall-gray?style=flat-square" />
+      <img src="https://img.shields.io/badge/UFW_Firewall-333333?style=flat-square&logo=linux&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -68,19 +69,19 @@ I am a **Full-Stack Developer** and **Network Engineer** specializing in the int
 
 ## 🏆 **Featured Projects**
 
-### 🎥 **Streaming & IPTV Solutions**
-| Project | Role | Description |
+### 🎥 **Streaming & Media Solutions**
+| Project | Role | Stack / Focus |
 |:---|:---|:---|
-| **[IPTV M3U Generator](https://github.com/sohag1192/IPTV-M3U-Generator)** | Author | Advanced PHP script for dynamic M3U playlist generation and stream management. |
-| **[Emby Home Swiper UI](https://github.com/sohag1192/Emby-Home-Swiper-UI)** | Author | Modern, touch-responsive Swiper.js integration for Emby web interfaces. |
-| **[Emby to Telegram](https://github.com/sohag1192/emby-to-telegram)** | Author | Real-time notification system for Emby media updates via Python. |
+| **[IPTV M3U Generator](https://github.com/sohag1192/IPTV-M3U-Generator)** | Author | `PHP` `API` Dynamic playlist generation & stream routing. |
+| **[Emby Home Swiper UI](https://github.com/sohag1192/Emby-Home-Swiper-UI)** | Author | `JS` `CSS` Modern, touch-responsive UI for Emby servers. |
+| **[Emby to Telegram](https://github.com/sohag1192/emby-to-telegram)** | Author | `Python` Real-time media addition notification bot. |
 
-### 🔧 **Network & Utility**
-| Project | Role | Description |
+### 🔧 **Network & Automation Tooling**
+| Project | Role | Stack / Focus |
 |:---|:---|:---|
-| **[Web File Browser](https://github.com/sohag1192/Web-File-Browser-UI)** | Author | A sleek, responsive web interface for managing remote server files. |
-| **[MikroTik DNS Forwarder](https://github.com/sohag1192/how-to-forward-dns-TCP-UDP-to-mikrotik-dns)** | Author | Specialized RouterOS scripts for optimized DNS traffic handling. |
-| **[UFW Rule Generator](https://github.com/sohag1192/UFW-Generator)** | Author | Automated tool for generating complex firewall security policies. |
+| **[Web File Browser UI](https://github.com/sohag1192/Web-File-Browser-UI)** | Author | `PHP` `JS` Sleek web interface for managing remote FTP/server files. |
+| **[MikroTik DNS Forwarder](https://github.com/sohag1192/how-to-forward-dns-TCP-UDP-to-mikrotik-dns)** | Author | `RouterOS` Optimized DNS traffic handling and caching. |
+| **[UFW Rule Generator](https://github.com/sohag1192/UFW-Generator)** | Author | `PHP` `JS` Automated tool for generating complex server firewall policies. |
 
 ---
 
@@ -105,5 +106,7 @@ I am a **Full-Stack Developer** and **Network Engineer** specializing in the int
 *"I build the pipes that connect the world."*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sohag1192&style=flat-square&color=20C20E)
+
+![](https://hit.yhype.me/github/profile?account_id=67639702)
 
 </div>
