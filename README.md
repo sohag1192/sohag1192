@@ -45,12 +45,12 @@ I am a **Full-Stack Developer** and **Network Engineer** specializing in the int
     <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/MikroTik-E53935?style=flat-square&logo=mikrotik&logoColor=white" /><br>
@@ -71,11 +71,11 @@ I am a **Full-Stack Developer** and **Network Engineer** specializing in the int
 
 | Status | Project & Link | Tech Stack | Description |
 |:---:|:---|:---|:---|
-| 🔴 **Private** | **Enterprise ISP Management Suite** | `Python` `PHP` `API` | Comprehensive billing, Radius, and bandwidth management architecture built for large-scale ISP operations. Handles automated PPPoE provisioning and traffic shaping. |
-| 🟢 **Public** | **[IPTV M3U Generator Middleware](https://github.com/sohag1192/IPTV-M3U-Generator)** | `PHP` `HLS` | An advanced backend script for dynamic M3U playlist generation, stream routing, and client management for live TV services. |
-| 🟢 **Public** | **[Emby to Telegram Automator](https://github.com/sohag1192/emby-to-telegram)** | `Python` `Webhooks` | A real-time notification engine that monitors Emby media servers and pushes highly formatted alerts directly to Telegram channels. |
-| 🟢 **Public** | **[Advanced Web File Browser UI](https://github.com/sohag1192/Web-File-Browser-UI)** | `PHP` `JS` `CSS` | A sleek, responsive, and secure web interface designed for managing remote FTP/server file directories from any device. |
-| 🟢 **Public** | **[MikroTik Advanced Traffic Engine](https://github.com/sohag1192/how-to-forward-dns-TCP-UDP-to-mikrotik-dns)** | `RouterOS` | Specialized deployment scripts for optimizing ISP environments, including advanced DNS forwarding, TCP/UDP handling, and complex PCQ queue trees. |
+| 🔴 **Private** | **Enterprise ISP Core Suite** | `Python` `Radius` | High-scale automation for PPPoE provisioning, automated billing cycles, and dynamic BGP traffic shaping for Tier-2 ISPs. |
+| 🟢 **Public** | **[Live TV Server Ecosystem](https://github.com/sohag1192/Live-Tv-Server)** | `PHP` `HLS` `IPTV` | A robust backend architecture for managing and delivering live IPTV streams with high availability. |
+| 🟢 **Public** | **[MikroTik Script Generators](https://github.com/sohag1192/MikroTik-Script-Generators)** | `RouterOS` `PHP` | Automated toolset to generate complex RouterOS configs for QoS, Mangle rules, and advanced DNS forwarding. |
+| 🟢 **Public** | **[Streaming Platform Webpage](https://github.com/sohag1192/Streaming-Platform-Webpage)** | `JS` `HTML/CSS` | A high-fidelity, responsive frontend UI specifically optimized for VOD and Live TV streaming catalogs. |
+| 🟢 **Public** | **[Emby Home Swiper UI](https://github.com/sohag1192/Emby-Home-Swiper-UI)** | `JS` `CSS` `API` | A modern, touch-optimized swiper interface overhaul for Emby media servers to improve library navigation. |
 
 ---
 
