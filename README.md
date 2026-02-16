@@ -11,12 +11,14 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohag1192&theme=radical" alt="Profile Details" />
 
 <br/>
-<br/>
 
-<a href="https://rootmaster.xyz"><img src="https://img.shields.io/badge/Website-rootmaster.xyz-00cc44?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-<a href="mailto:sohag1192@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://t.me/sohag1192"><img src="https://img.shields.io/badge/Telegram-@sohag1192-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="https://x.com/Sohag_1192"><img src="https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+### 🌐 **Connect with Me**
+<p align="center">
+<a href="https://rootmaster.xyz"><img src="https://img.shields.io/badge/Website-00cc44?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+<a href="https://t.me/sohag1192"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://x.com/Sohag_1192"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="mailto:sohag1192@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 </div>
 
@@ -24,7 +26,7 @@
 
 ## 👨‍💻 **Executive Summary**
 
-I am a **Full-Stack Developer** and **Network Engineer** specializing in the intersection of software engineering and heavy-duty network infrastructure. I build high-performance systems that manage internet traffic, automate ISP operations, and deliver low-latency video streams at scale.
+I am a **Full-Stack Developer** and **Network Engineer** specializing in the intersection of software and infrastructure. I build high-performance systems that manage internet traffic and deliver low-latency video streams at scale.
 
 * 🔭 **Core Focus:** ISP Automation (Radius/BGP/PPPoE) & Media Server Ecosystems.
 * 🛠 **Bridging the Gap:** Integrating enterprise hardware (MikroTik/Cisco) with custom middleware.
@@ -32,7 +34,24 @@ I am a **Full-Stack Developer** and **Network Engineer** specializing in the int
 
 ---
 
+## 🏆 **Enterprise Achievements & Milestones**
+
+Before diving into my code, here is the real-world impact of the private and enterprise systems I architect:
+
+* 🔒 **ISP Core Infrastructure (Private):** Developed and deployed a complete, highly-scalable ISP management suite. This system automates PPPoE provisioning, Radius billing cycles, and dynamic BGP traffic shaping, currently powering Tier-2 ISP operations.
+* 📺 **High-Concurrency Streaming Ecosystems:** Architected robust backend solutions using Flussonic and Emby, capable of routing and delivering highly reliable Live TV and VOD streams to massive user bases with minimal latency.
+* ⚡ **Advanced Network Optimization:** Successfully engineered and deployed complex MikroTik script generators that handle advanced DNS forwarding, intricate Mangle rules, and strict PCQ queue trees to eliminate network bottlenecks.
+
+---
+
 ## 🛠 **Technology Arsenal**
+
+### 🚀 **Skills & Tools**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,php,js,nodejs,react,html,css,linux,docker,aws,mysql,nginx,git,github,vscode,postman,java" />
+  </a>
+</p>
 
 <table align="center">
   <tr>
@@ -67,28 +86,29 @@ I am a **Full-Stack Developer** and **Network Engineer** specializing in the int
 
 ---
 
-## 🏆 **Top 5 Featured Projects**
+## 🌟 **Top Featured Open-Source Projects**
 
-| Status | Project & Link | Tech Stack | Description |
-|:---:|:---|:---|:---|
-| 🔴 **Private** | **Enterprise ISP Core Suite** | `Python` `Radius` | High-scale automation for PPPoE provisioning, automated billing cycles, and dynamic BGP traffic shaping for Tier-2 ISPs. |
-| 🟢 **Public** | **[Live TV Server Ecosystem](https://github.com/sohag1192/Live-Tv-Server)** | `PHP` `HLS` `IPTV` | A robust backend architecture for managing and delivering live IPTV streams with high availability. |
-| 🟢 **Public** | **[MikroTik Script Generators](https://github.com/sohag1192/MikroTik-Script-Generators)** | `RouterOS` `PHP` | Automated toolset to generate complex RouterOS configs for QoS, Mangle rules, and advanced DNS forwarding. |
-| 🟢 **Public** | **[Streaming Platform Webpage](https://github.com/sohag1192/Streaming-Platform-Webpage)** | `JS` `HTML/CSS` | A high-fidelity, responsive frontend UI specifically optimized for VOD and Live TV streaming catalogs. |
-| 🟢 **Public** | **[Emby Home Swiper UI](https://github.com/sohag1192/Emby-Home-Swiper-UI)** | `JS` `CSS` `API` | A modern, touch-optimized swiper interface overhaul for Emby media servers to improve library navigation. |
+| Project & Link | Status & Stars | Tech Stack | Description |
+|:---|:---:|:---:|:---|
+| **[Live TV Server Ecosystem](https://github.com/sohag1192/Live-Tv-Server)** | ![Stars](https://img.shields.io/github/stars/sohag1192/Live-Tv-Server?style=social) | `PHP` `HLS` | Robust backend architecture for managing, routing, and delivering live IPTV streams with dynamic M3U generation. |
+| **[MikroTik Script Generators](https://github.com/sohag1192/MikroTik-Script-Generators)** | ![Stars](https://img.shields.io/github/stars/sohag1192/MikroTik-Script-Generators?style=social) | `RouterOS` | Automated toolset to rapidly deploy complex RouterOS configs for QoS, Mangle rules, and advanced routing. |
+| **[Streaming Platform Webpage](https://github.com/sohag1192/Streaming-Platform-Webpage)** | ![Stars](https://img.shields.io/github/stars/sohag1192/Streaming-Platform-Webpage?style=social) | `JS` `CSS` | High-fidelity, responsive frontend UI customized specifically for VOD and Live TV streaming catalogs. |
+| **[Emby Home Swiper UI](https://github.com/sohag1192/Emby-Home-Swiper-UI)** | ![Stars](https://img.shields.io/github/stars/sohag1192/Emby-Home-Swiper-UI?style=social) | `JS` `API` | A modern, touch-optimized swiper interface integration that completely overhauls the Emby media server UI. |
 
 ---
 
-## 📊 **Engineering Metrics**
+## 💻 **Current Activity & Metrics**
 
 <div align="center">
 
-| **Coding Activity** | **Language Breakdown** |
+| **Coding Streak** | **Language Breakdown** |
 |:---:|:---:|
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohag1192&theme=radical&hide_border=true&background=0D1117" alt="Streak" width="350" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohag1192&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117" alt="Languages" width="350" /> |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohag1192&theme=radical&hide_border=true&border_radius=5" alt="Streak" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohag1192&theme=radical&layout=compact&hide_border=true&border_radius=5" alt="Languages" width="400" /> |
 
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohag1192&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" alt="Activity Graph" />
+
+### 📈 **Engineering Contribution Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohag1192&theme=react-dark&bg_color=0D1117&hide_border=true&border_radius=5" width="100%" alt="Activity Graph" />
 
 </div>
 
